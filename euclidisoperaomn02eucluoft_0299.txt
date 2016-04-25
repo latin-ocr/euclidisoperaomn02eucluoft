@@ -1,0 +1,45 @@
+ELEMENTORUM LIBER vm. 273
+
+minorem3 quod fieri non potest. itaque E, Z, H, Θ
+eandem rationem non habent ac A, Β, Γ, A, quibus
+minores sunt. ergo A, Β, Γ, A minimi sunt eorum,
+qui eandem rationem habent3 quod erat demonstrandum.
+
+II.
+
+Numeros inuenire minimos deinceps proportionales
+in data proportione, quotcunque propositum erit.
+
+Sit data proportio in numeris minimis¹) A z Β.
+oportet igitur numeros inuenire minimos deinceps pro-
+portionales in proportione A : Β, quotcunque propo-
+situm erit. — propositum sit, ut quattuor inuenia-
+. muS, et sit A><A=13 A><B=A, B><B=E,
+Α><Γ---Ζ, A><A=H, A><E=Q B><E=K.
+
+,n-ffl ι ιΓ
+ι ιΒ 1-——nA
+
+1——————--1E
+z 1———13 ⁴
+
+ 
+
+ 
+
+ 
+
+——-————————-16⁴)
+
+et quoniam A><A==Fet A><B=A‚ erit
+A:B= F: A [VII‚ 17].
+rursus quoniam A >< B = A et Β >< Β == E, uterque
+A, Β numerum Β multiplicans utrumque A, Ε effecit.
+
+ 
+
+1) Si proportio data minimis numeris proposita non est,
+εξ Υἰὲύθέῗ minimos inueniemus eorum, qui eandem ratio-
+
+Euclides, edd. Heiberg et Menge. 11. 18
+

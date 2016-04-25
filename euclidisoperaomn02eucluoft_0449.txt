@@ -1,0 +1,51 @@
+APPENDIX. V 423
+
+Ἴ uidatur, et adplicetur A A deficiens figura ΛΒ, et rur-
+
+sus rectae AB adplicetur parallelogrammum AE de-
+
+ficiens figura ΕΒ simili et similiter posita quadrato
+dimidiae ΛΒ. dico, esse AA> AE.
+
+nam quoniam ΕΒ (Ὁ ΛΒ, circum eandem diame-
+
+θ E ff trum sunt [VI‚ 26]. eorum diame—
+
+-mM trus sit ΕΒ, et describatur figura
+
+mh) 161 not. 1]. et quoniam est
+m ΛΖ = ΛΘ, quoniam ZH= ΗΘ,
+erit AZ>KE. uerum AZ== AA
+
+Α Δ J B [Ι, 43]. quare etiam AA > ΕΚ.
+commune adiiciatur KA. ergo AA > ΑΕ, quod erat
+demonstrandum.
+
+VI, 30.
+
+Aliter.¹)
+
+Sit data *recta ΑΒ. oportet igitur rectam AB se-
+cundum rationem extremam et mediam secare.
+secetur enim AB in Γ ita, ut sit
+
+:⁴1:15
+
+AB >< ΒΓ --- ΓΑ2 [ΙΙ, 11].
+iam quoniam AB >< ΒΓ ---· PA2, erit [VI, 17]
+BA2AF=Asz ΓΒ.
+itaque AB in Γ secundum extremam et mediam ra-
+tionem secta est3 quod oportebat fieri.
+
+ 
+
+ 
+
+ 
+
+1) Habet Campanus VI, 29: „idem etiam potest demon-
+strari ex 11 secundi!⁴
+
+A e corr F; ΑΓ P. 22. BA] AB P. 23. ἄρα] om. B
+apoc AB V.
+

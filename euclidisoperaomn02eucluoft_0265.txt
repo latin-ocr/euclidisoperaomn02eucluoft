@@ -1,0 +1,37 @@
+ELEMENTORUM LIBER vn. 239
+
+XXIV.
+
+Si duo numeri ad numerum aliquem primi sunt,
+etiam numerus ex iis productus ad eundem primus erit.
+Nam duo numeri A, Β ad numerum
+aliquem Γ primi sint, et sit A >< B = A.
+dico, etiam Γ, A inter se primos esse.
+nam si Γ, A inter se primi non sunt,
+numerus aliquisnumeros Γ, A metietur„
+A metiatur et sit E. et quoniam Γ, A
+inter se primi sunt, et numerum Γ nu-
+merus aliquis E metitur, numeri A, Ε inter se primi
+sunt [prop. XXIIIJ. quoties igitur E numerum A me-
+titur, tot unitates sint in Z. quare etiam Z numerum
+A metitur seeundum unitates numeri E [prop. XVJ.
+itaque E >< Z = A [def. 15]. uerum etiam A >< Β = A.
+itaque E >< Z = A >< Β. uerum ubi numerus ex ex-
+tremis productus numero ex mediis producto aequalis
+est, quattuor numeri proportionales sunt [prop. XIX].
+itaque E: A = Β : Z. sed A, E primi sunia, primi autem
+etiam minimi sunt [prop. XXI], minimi aulzem numeri
+eorum, qui eandem rationem habent, numeros eandem
+rationem habentes aequaliter metiunbur, maior maio-
+rem et minor minorem [prop. XX] , h. e. praecedens
+praecedentem et sequens sequentem. itaque Ε nume-
+
+ 
+
+add. m. rec. Post A add. ch: ἀριθμούς. ἀριθμός] corr.
+ex ἀριθμούς m. rec. P. 11. οἷ Γ, Α corr. ex ὁ Γ φ, ex
+οἱ Γ, Δ p m. 23 οἰ A, Γ Ρ. 12. εἰσί Ρφ. A, E] E, A p.
+
+18. ἄρα] om. Vq). 19. ἴσοςέ] ἴσον φ. 20. οἱ] ozel? P,
+del. m. rec. ἀνάλογοι p. 25. λάττων P. 26. ἐλάττονα Ρ.
+

@@ -1,0 +1,44 @@
+ELEMENTORUM LIBER VI. 125
+
+aequale est rectangulo mediis comprehenso ‚ quattuor
+rectae proportionales sunt [prop. XVI]. itaque
+A:B=A:1“. sedB=A. itaqueA:B=B:F.
+Ergo si tres rectae proportionales sunt, rectan-
+gulum extremis terminis comprehensum aequale est
+quadrato medii3 et si rectangulum extremis terminis
+comprehensum aequale est quadrato medii, tres‘rectae
+proportionales erunt3 quod erat demonstrandum.
+
+XVIII.
+
+In data recta datae figurae rectilineae similem et
+
+· similiter positam figuram rectilineam construere.
+
+Sit data recta AB et data figura rectilinea ΓΕ.
+
+oportet igitur in recta AB figurae rectilineae ΓΕ
+similem et similiter positam figuram rectilineam
+¹.. construere.
+
+Β Θ
+1⁷ A ANB
+
+ducatur A Z et ad rectam AB et puncta eius A, Β
+angulo ad Γ posito aequalis construatur L ΗΑΒ,
+angulo autem ΓΔΖ aequalis L ABH [I, 23]. itaque
+L ΓΖΔ = AHB [I‚ 32]. quare Δ ΖΓΔ triangulo
+H AB aequiangulus est. itaque ZA ε ΗΒ == ZI': HA
+
+= FA: AB [prop. IVJ. rursus ad rectam BH et
+
+’ὁμοίας π (non P). 20. AZ] ZA P. συνεστοτο π (non P).
+
+22. τῷ] τῇ Ρ. ἴση om. V. HAB] BAH P; AB F;
+HAB ἴση V. 23. ἴση om. V. τῇ] λοιπῇ τῇ V. 24.
+AHB] A''B'H F. ἐστί] om. V. 26. ὡς] supra F. 28.
+
+Δ τῇ] corr. ex τῆς m. 1 p. BH] H supra scr. V.
+
+ 
+

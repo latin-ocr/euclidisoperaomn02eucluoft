@@ -1,0 +1,53 @@
+ELEMENTORUM LIBER VI. 97
+
+minores. dieo, aequiangulos ν esse triangulos ΑΒΓ,
+ΔΕΖ, et L ABF= AEZ, et, ut inde adparet, qui
+relinquitur angulus ad Γ positus, reliquo angulo ad Z
+posito aequalem esse.
+
+nam si L A ΒΓ angulo A E Z inaequalis est, alteruter
+eorum maior est. sit maior l, ΑΒΓ, et construatur
+'ad rectam AB et punctum eius Β LABH= AEZ
+[1, 23]. et quoniam L A = L A et L ABH=,AEZ,
+erit L, AHB = Δ ΖΕ [1, 32]. itaque trianguli Α ΒΗ,
+AEZ aequianguli sunt. quare AB ε ΒΗ -- ΛΕε ΕΖ
+[prop. IV]. sed supposuimuS, esse A E: EZ = AB : ΒΓ.
+itaque AB ad utramque ΒΓ, ΒΗ eandem rationem
+habet [V, 11]. quare ΒΓ = BH [V, 9]. itaque etiam
+angulus ad Γ positus angulo ΒΗΓ aequalis est [1, 5].
+supposuimus autem, angulum ad Γ positum minorem
+esse reet03 quare etiam L ΒΗΓ minor est recto.
+itaque angulus deinceps positus AHB maior est
+recto [I‚ 13]. et demonstratum est, eum angulo ad
+Z posito aequalem esse. quare etiam angulus ad Z
+positus maior est recto. supposuimus autem, eum
+
+ 
+
+tw* - .
+
+ 
+
+—, -vv ‹rw-’²7
+
+mat—*⁶⁷-
+
+nemausa-*wi .
+
+recto minorem esse3 quod absurdum est. itaque
+L ΑΒΓ angulo AEZ inaequalis non est3 aequalis
+igitur. uerum etiam angulus ad A positus angulo ad A
+posito aequalis est. quare etiam qui relinquitur angulus
+ad Γ positus, reliquo angulo ad Z posito aequalis est
+[I‚ 32]. ergo trianguli ΑΒΓ, A EZ aequianguli sunt.
+
+Theon: ’καὶ ὡς ἄρα ἡ ΑΒ πρὸς τὴν ΒΓ, οὕτως ὴ ΑΒ πρὸς
+
+τὴν ΒΗ (V et bis omisso τίν BFp). 18. ἄρα ἐστίν Ρ.
+19. πρὸς τῷ Γ corr. ex ὑπὸ ΒΗΓ m. 2 V. ΒΗΓ] corr.
+ex ΒΓΗ m. 2 . 20. ἐλάσσων p. 21. καί] om. P.
+22. αὐτῆς Ρ. 23. τῶ] corr. ex τό m. 1 B. 25. ἐλάτ-
+
+των F. ἐστίν] om. V.‘ 26. ΔΕ Ζ] ΕΛΖ p.
+Euclides, edd. Heiberg et Menge. ΙΙ, 7
+

@@ -1,0 +1,46 @@
+ELEMENTORUM LIBER V111. 303
+
+rursus quoniam A >< Θ = K et Z >< Θ = A, erit
+A:Z=K:A [VII‚ 18]. uerum A:Z=A:K.
+quare etiam A ε Κ = K ε Λ. praeterea quoniam
+Z><o=AetZ><H=B‚ erit [V11,17]o:H=A:B.
+uerum o2H=A:Z. quare etiam A:Z=A ε Β.
+demonstrauimus autem, esse etiam
+A:Z=A:K=K:A.
+
+itaque erit A: K = K: A = A ε Β. itaque A, K,A,B
+deinceps in continua proportione sunt. quot igitur
+inter singulos A, Β et Γ unitatem secundum pro-
+portionem continuam interponuntur numeri, totidem
+etiam inter A, Β deinceps interponentur3 quod erat
+demonstrandum.
+
+XI.
+
+Inter duos numeros quadratos unus medius est
+proportionalis numerus, et quadratus ad quadratum
+duplicatam rationem habet quam latus ad latus.
+
+Sint numeri quadrati A, B, et numeri A latus
+sit Γ, numeri autem B latus A. dico, inter A, B
+
+{A
+1-————-——‹B
+ιΔ
+
+ 
+
+ 
+
+ι-ιΓ ι
+
+1—*w———4E
+
+unum medium esse proportionalem numerum, et esse
+A : B = Γ2 : ΔΞ.
+
+ 
+
+πρὸς τὸν Α] om. Bqu. 15. Γ] in rae. φ. 17. Ante καί
+rae. 1 litt. V. 26. τῶν] corr. ex τόν V.
+

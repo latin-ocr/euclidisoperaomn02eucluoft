@@ -1,0 +1,46 @@
+ELEMENTORUM LIBER V. 57
+
+Corollarium.¹)
+
+Hinc manifestum est, si compositae magnitudines
+proportionales sint, etiam conuertendo proportionales
+eas fore. - quod erat demonstrandum.
+
+XX.
+
+Si datae sunt tres magnitudines et aliae iis numero
+aequaleS, binae simul coniunctae et in eadem propor-
+tione, ex aequo autem prima tertia maior est, etiam
+quarta sexta maior erit, et si aequalis , aequalis erit,
+et si minor, minor.
+
+Sint tres magnitudines A, Β, Γ et aliae iis numero
+aequales A, E, Ζ, binae coniunc-
+
+ 
+
+ζμ, ¹ Ξῖ, tae in eadem proportione, sci-
+n———l Z*—1 licetA:B=A:E,etB:1''
+
+=E: Ζ, et sit A> Γ. dieo,
+esse etiam A> Z, et si A = Γ, esse A = Ζ, et si
+Α<Γ, esse A<Z.
+nam quoniam A > Γ, et alia quaeuis magnitudo
+est Β, et maius ad idem maiorem rationem habet
+quam minus [prop. VIII], erit A : B > F: Β. uerum
+A : Β = A : E et e contrario [prop. VII coroll.]
+Γ. · Β = Z: Ε.
+
+ 
+
+1) Quae praecedunt uerba p. 55, 24—28 immerito ab sim-
+sono aliisque uituperantur3 nam ueram continent demonstra-
+tionem conuersae rationis. demonstrauimus enim (p. 55, 19)
+AB: FA===EB2 ZA, unde AB. ΕΒπ-ΓΔ, ZA; sed simul
+erat (p. 55, 12) BA: ΑΕ =AP. ΓΖ; tum u. def. 16. nihilo
+minus hio locus interpolatus esse uideri potest (sed ante
+Theonem), quia Euclides numquam corollarii rationem reddit,
+id quod ipsius uocabuli πόρισμα notioni (Proclus in Eucl.
+p. 301. 303) aduersatur. huic loco similis est interpolatio
+Theonis post V, 4.
+

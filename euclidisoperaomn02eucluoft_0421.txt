@@ -1,0 +1,58 @@
+ELEMENTORUM LIBER IX. 395
+
+XXIV.
+
+Si a numero pari par subtrahitur, reliquus par erit.
+Nam a pari numero ΑΒ par subtrahatiir ΒΓ. dico,
+“ reliquum ΓΑ parem esse.
+
+A Γ Β
+ι ι
+
+,ὃ
+
+ 
+
+ 
+
+nam quoniam AB par est, partem dimidiam habeb
+
+[VII def. 6]. eadem de causa etiam ΒΓ partem di-
+
+ι midiam habet. ergo etiam reliquus ΑΓ par est3 quod
+ζ erat demonstrandum.
+
+XXV.
+Si a numero pari impar 'subtrahitun reliquus im-
+’ par erit.
+
+Nam a pari numero AB impar subbrahatur ΒΓ.
+dice, reliquum ΓΛ imparem esse.
+
+ 
+
+ 
+
+Ἀ ΓΛ ia
+
+subtrahatur enim a ΒΓ unitas ΓΔ. itaque AB
+par esf, [VII def. 7]. uerum etiam AB par est. quare
+etiam reliquus AA par est [prop. XXIV} et unitas
+est ΓΔ. ergo ΓΑ impar est [VII def. 7]; quod erat
+demonstrandum.
+
+XXVI.
+
+Si a numero impari impar sub'wahitnr, reliquus
+
+par eriiz.
+
+'A Γ ΔΒ
+
+ 
+
+1- —1
+
+Nam ab impari numero AB impar subtrahatur
+ΒΓ. dieo, reliquum ΓΑ parem esse.
+

@@ -1,0 +1,44 @@
+ELEMENTORUM LIBER V. 17
+
+magnitudinis Γ aeque multiplices sunt, et sumptae
+sunt magnitudinum E, Z aeque multiplices K, A, erit
+K magnitudinis A et A magnitudinis Γ aeque multiplex
+[prop. 111]. eadem de causa M magnitudinis Β et N
+magnitudinis A aeque multiplex est. et quoniam est
+A ε Β = Γ : A, et sumptae sunt magnitudinum A, Γ
+aeque multiplices K, A et magnitudinum Β, A aliae
+quaeuis aeque ‚multiplices Μ, Ν, si K magnitudinem
+M superat, etiam A magnitudinem N superat, 'et si
+aequalis, aequalis est, et si minor, minor [def. 5]. et
+K, A magnitudinum E, Z aeque multiplices sunt, M, Ν
+autem magnitudinum H, Θ aliae quaeuis aeque multi-
+plices, itaque E : H = Z: Θ [def. 5].
+
+Ergo si prima ad secundam eandem rationem
+habet ac tertia ad quartam, etiam primae tertiaeque
+aeque multiplices ad secundae quartaeque aeque multi-
+plices qualibet multiplicatione productas eandem ratio·
+nem habebunt suo ordine sumptae3 quod erat demon-
+strandum.
+
+V.
+
+Si magnitudo magnitudinis aeque multiplex est
+atque ablata ablatae, etiam reliqua reliquae aeque
+multiplex erit ac tota totius,
+
+ 
+
+καὶ τὸ Λ τοῦ Ν, καὶ εἰ ἴσον ἴσον, καὶ εἰ ἔλαττον ἔλαττον,
+δῆλον ὅτι καὶ εἰ ὑπερέχει τὸ Mum} K, ὑπερέχει καὶ τὸ Ν·τοῦ
+Λ, καὶ εἰ ἴσον ἴσον, καὶ εἰ ἔλαττον ἔλαττον, καὶ διὰ τοῦτο
+ἔσται καὶ ὡς τὸ Η πρὸς τὸ Ε, οὕτως τὸ Θ πρὸς τὸ Ζ. Πόρισμα.
+ἐκ δὴ τούτου φανερόν, ὅτι ἐὰν τέσσαρα μεγέθη ἀνάλογον ᾖ,
+καὶ ἀνάπαλιν ἀνάλογον ἔσται (FBV3 primum ὅτι om. B;
+οὕτω pro οὕτως F; semper ἔλασσον V; in p non exstant nisi
+ultima inde a πόρισμα); idem in P. mg. m. rec. (om, priore
+ὅτι); om. P m. 1, Campanus; cfr. ad prop. VII. 24. τό]
+corr. ex τοῦ m. 1 F. τὸ ὅλον] supra p.
+
+Euclides, edd. Heiberg et Menge. 11. 2
+

@@ -1,0 +1,60 @@
+ELEMENTORUM LtBER v11. 219
+
+Sint quattuor numeri proportionales A, Β, Γ, A,
+
+ita ut sit A : Β = F: A. dico, esse etiam permutatim
+A z Γ = Β z A.
+
+A nam quoniam est A : Β = Γ : A, quae
+“ pars uel partes est A numeri Β, eadem pars
+uel partes erit etiam Γ numeri A [def. 20].
+, - A itaque permutatim quae pars uel partes
+1 Β - 5‘ est A numeri Γ, eadem pars uel partes
+Γ J est etiam Β 1111111611 A [prop. Χ]. ergo
+· - A : Γ --· Β : A [def. 20]; quod erat de-
+
+monstrandum.
+
+ 
+
+ 
+
+XIV.
+
+Si quotlibet numeri dati sunt et alii iis numero
+aequales bim‘ simul coniuncti et in eadem proportione,
+etiam ex aequo in eadem proportione erunt.
+
+Sint quotlibet numeri A, Β, Γ 61 alii iis numero
+aequales bini 61111111 601111111611 111 eadem proportione
+
+ 
+
+ 
+
+¹ 1
+
+Α ’ Δ ¹ ’
+
+ 
+
+1
+
+ 
+
+Β Ε
+
+ 
+
+ 
+
+Γ “ z ¹
+A, E, Z, ita ut sit A:B=A:E et B:F=E:Z.
+dico, esse etiam ex aequo A ε Γ --- A z Z.
+nam quoniam est A ε Β = A ε Ε, permutatim erit
+
+A ε A = Β : E [prop. XIII} rursus quoniam 661
+Β : Γ = E t Z,
+
+permutatim erit B:E=F:Z [id.]. sed BtE=A:A. ·
+

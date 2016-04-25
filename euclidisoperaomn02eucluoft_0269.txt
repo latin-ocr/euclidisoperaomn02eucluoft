@@ -1,0 +1,48 @@
+ELEMENTORUM LIBER VH. . 243
+
+singuli ad singulos primi sint, et sit
+AxB=QFxA=z
+dico, etiam E, Z inter 'se primos esse.
+
+ 
+
+ 
+
+Αι 1 Γι ι
+Βι--ι A1-———1
+En—————1
+Zl———ml
+
+nam quoniam uterque A, B ad Γ primus est, etiam
+A >< B ad Γ primus erit [prop. XXIV]. sed A >< B = E.
+quare E, Γ inter se primi sunt. eadem de causa
+etiam E, A inter se primi sunt. itaque uterque Γ, Δ
+ad E primus est. itaque etiam Γ >< Δ ad E primus
+erit. sed Γ>< Δ = Z. ergo E, Z inter se primi
+sunt3 quod erat demonstrandum.
+
+XXVII.
+
+Si duo numeri inter se primi sunt, et uterque se
+ipse multiplicans numerum aliquem effecerit, numeri
+ex iis effecti inter se primi erunt, et si numeri ab
+initio sumpti numeros productos multiplicantes numeros
+aliquos effecerint, ii quoque inter se primi erunt [et
+semper in extremis 1) hoc accidit}
+
+ 
+
+1) ἄκροι hoc loco satis insolenter positum est. neque
+enim aliud significat nisi: ultimos, ultimo loco productos,
+praeterea mirum est, haec uerba in demonstratione ne uerbo
+quidem respici, nedum demonstrentur. quare puto, uerba καὶ
+αεὶ utel-vove ἄκρους τοῦτο συμβαίνει lin. 20-21 ante Theonem
+interpolata esse3 omisit Campanus VII, 28 (sed in demonstra-
+tione addit: sicque si infinities duceretur utrumque producto-
+rum m suum principium, essent omnes producti contra se
+Ξᾶηπιὲς et ῃῖιι solum, sed quilibet eductus ab a ad quemlibet
+
+uc um a. ).
+
+16*
+

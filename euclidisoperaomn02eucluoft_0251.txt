@@ -1,0 +1,61 @@
+ELEMENTORUM mmm vn. 225
+
+<liber nielziebatur [p. 222, 22]. itaque A utrumque
+numerum Γ, A aequaliter metitur. ergo Γ 2- A3 quod
+erat demonstrandum.
+
+XVII.
+Si numerus duos numeros multiplicans numeros
+aliquos efficit, numeri ex iis effecti eandem rationem
+habebunt, quam habent numeri multiplicati.
+
+Nam numerus A duos numeros B, Γ multiplicans
+numeros A, E efficiat. dico, esse B:1''= A ε Ε.
+
+ 
+
+ι ι Α
+
+Β 1
+
+ 
+
+ 
+
+ι Γ ι
+A Ε
+
+1———1 1————-————1
+
+’1-1 Ζ
+
+1
+
+quoniam enim A numerum Β mulbiplicans A effe-
+cit, Β numerum A metissur secundum unitates numeri A.
+uerum etiam Z unitas numerum A secundum unitasses V
+eius metitur. itaque unitas Z numerum A et B nu-
+merum A aequaliter metitur. quare Z : A = Β : A
+[def. 20]. eadem de causa erit etiam Z t A = Γ : E.
+quare effiam Β : A = Γ 2 E. itaque permutando [prop.
+XIII] Β : Γ = A : E3 quod erat demonstrandum.
+
+XVIII.
+
+Si duo numeri numerum aliquem multiplicantes
+numeros aliquos efficiunt, numeri inde effecti eandem
+rationem habebunt, quam multiplicantes,
+
+ 
+
+ 
+
+τὸν A] A V φ. - 24.. ἔχουσι. Ρ. πολλαπλασιᾴσασι p, πολλα-
+πλασιαζουσι V φ. Dem seq. m V: δυο γὰρ αριθμοὶ οἱ Α, Β
+ἀριθμόν τινα τὸν Γ πολλαπλασιάσαντες ποιῶσί τινας οἷ γενό-
+
+νοι ἐξ αὐτῶν τὸν αὐτὸν ’ἕξουσι τοῖς πολλαπλασιασα (ras. 2
+‘tt->3 punctis del. m. 1.
+
+E u c l i d ο ι , edd. Heiberg et Menge. 11. 15
+

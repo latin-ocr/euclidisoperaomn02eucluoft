@@ -1,0 +1,47 @@
+ELEMENTORUM LIBER IX. 345
+
+manifestum igitur, esse Γ >< A = A. et quoniam
+Γ >< Γ = A, Γ numerum ·A se-
+cundum unitates suas metitur [VII
+def. 15]. uerum etiam unitas nu-
+merum Γ seeundum unitates ipsius
+metitur. itaque [VII def. 20] 1 ε Γ ='1'⁷ : A. rursus
+qnoniam Γ>< A == A, A numerum A seeundum uni-
+tates numeri Γ metitur. uerum etiam unitas nume-
+rum Γ secundum unitates ipsius metitur. erit igitur
+1:F=A:A. uerum 1:I⁷=1'':A.
+itaque 1 : Γ = Γ; A = A ε A. itaque inter unitatem
+et numerum A duo medii proportionales interponun-
+tur numeri Γ, A seeundum proportionem continuam.
+rursus quoniam est A >< A = Β, A numerum B
+seeundum unitates suas metitur. uerum etiam unitas
+numerum A secundum unitates ipsius metitur. erit
+igitur 1 ε Α = A: Β. sed inter unitatem et A duo
+medii proportionales interponuntur numeri. itaque
+etiam inter A , Β duo medii proportionales inter-
+ponentur numeri [VIIL 8].¹) sin inter duos numeros
+duo medii proportionales interponuntur, et primus
+cubus est, etiam secundus cubus erit [VIII, 23]. et
+A cubus est. ergo etiam B cubus est3 quod erat
+demonstrandum.
+
+t-——lA
+n———-————1 Β
+1--ι Γ ι--ε A
+
+IV.
+
+Si cubus numerus cubum numerum multiplicans
+
+ 
+
+1) Vm, 8 de duobus numeris proportionalibus demon-
+ἰῗῗὺᾩτέεῗεᾶ demonstratio eadem tum quoque ualet, si alter
+
+ 
+
+ 
+
+πεπτώκασιν P. τῶν] corr. ex τόν V, 22. ἐμπίπτωσιν]
+e corr. V. 23. δεύτερος] τέταρτος Theon (Bth). ”
+

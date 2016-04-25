@@ -1,0 +1,51 @@
+ELEMENTORUM LIBER IX. 397
+
+, nam quoniam AB impar est, subtrahatur unitas
+· BA. itaque reliquus AA par est. eadem de causa
+etiam ΓΔ par est [VII def. 7].1) ergo* etiam qui re-
+linquitur, ΓΑ par est [prop. XXIV]; quod erat de—
+monstrandum.
+
+XXVII.
+
+Si a numero impari par subtrahitur, reliquus im-
+par erit. 1
+
+Nam a numero impari AB par subtrahatur ΒΓ.
+dico, reliquum ΓΑ imparem esse.
+
+ 
+
+ι A A ἑ ὲ
+
+ἱ
+.
+
+ 
+
+ἱ nam subtrahatur unitas A A. itaque A Β par est
+ἓ [VII def. 7]. uerum etiam ΒΓ par est. quare etiam
+reliquus ΓΔ par est [prop. XXIV]. ergo ΓΑ impar
+est [VII def. 7]; quod erat demonstrandum.
+
+XXVIII.
+
+Si numerus impar parem multiplicans numerum
+aliquem effecerit, numerus productus par erit.
+¹——³A Nam impar numerus A parem Β
+¹——-—³B multiplicans numerum Γ efficiat. dieo,
+¹ Τ numerum Γ parem esse.
+
+nam quoniam A >< B = Γ, numerus Γ ex totidem
+numeris numero Β aequalibus compositus est, quot sunt
+unitates in A [VII def. 15]. et Β par est. Γ igitur ex
+paribus compositus est. sin quotlibet numeri pares
+componuntur, totus par est [prop. XXIJ. ergo Γ par
+est3 quod erat demonstrandum.
+
+ 
+
+ 
+
+1) Nam supposuimus, ΓΒ imparem esse.
+

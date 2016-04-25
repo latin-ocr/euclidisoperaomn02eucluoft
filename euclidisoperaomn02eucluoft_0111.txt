@@ -1,0 +1,45 @@
+ 
+
+ELEMENTORUM LIBER VI. 85
+
+in triangulo ΒΓΕ uni laterum ΕΓ parallela dueta
+est AA) [prop. II], erit etiam BA ε AF= BA : AE
+[V‚ 11]. quare ΑΓ-- ΑΕ [V, 9]. quare etiam
+L AEF= ΑΓΕ [I‚ 5]. sed L AEF=BAAexteriori
+[1‚ 29], et L ΑΓΕ --- ΓΑΔ alterno [id.]. quare etiam
+LBAA = ΓΑΔ. itaque LBAF reeta AA in duas
+partes aequales sectus est.
+
+Ergo si angulus trianguli in duas partes aequales
+diuiditur, et recta angulum secans etiam basim secat,
+partes basis eandem rationem habebunt ae reliqua
+latera trianguli3 et si partes basis eandem rationem
+habent ae reliqua latera trianguli, reeta a uertice ad
+punctum sectionis ducta angulum trianguli in duas
+partes aequales secabit3 quod erat demonstrandum.
+
+IV.
+
+In triangulis aequiangulis latera aequales angulos
+comprehendentia proportionalia sunt et correspon-
+dentia, quae sub aequalibus angulis subtendunt.
+
+Sint trianguli aequianguli ΑΒΓ, ΔΓΕ habentes
+L ΑΒΓ = AI'E, BAF= ΓΔΕ, ΑΓΒ = ΓΕΔ. dieo,
+
+ 
+
+ἐστιν ἴση] om. B et V (ras. est quartae partis lineae); in mg.
+transeunt in ras. p. 10. ἡ] om. V. δίχα] om. F. 11.
+τὴν γωνίαν] Ρ; αὐτήν BFVp. εὐθεῖα] mg. m. 1 P. τέ-
+μνει F et seq. ras. 1 litt. V. 12. τά] m. 2 F. 13. καὶ
+ἐάν - 17: δεῖξαι] in ras. m. 1 F. 14. ἔχῃ] corr. ex ἔχει p.
+λόγον ἔχῃ V. 16. τοῦ τριγώνου om. FV. 17. γωνίαν]
+εὐθεῖαν Ρ. 20. αἰ περί] e corr. . ἴσας] m. rec. F. 21.
+πλευραὶ ὑποτείνουσαι Bp, ὑποτείνουσαι πλευραί FV. 22.
+ἔστωσαν V. ΔΓΕ] ΓΔΕ Bp, V m. 2. 23. ΑΒΓ]
+ΒΑΓ P. γωνίαν] comp. mg. Ρ. ΑΓΕ] ΓΔΕ Ρ. 24.
+ΒΑΓ] BFp, V m. 23 ΒΓΑ Ρ; ΑΓΒ V m. 1. ΓΔΕ] BFp,
+V m. 23 ΓΕΔ P. ΑΓΒ] Bp, V in ras. m. 23 ΑΒΓ PF.
+25. ΓΕΔ] BFp3 ΔΕΓ in ras. m. 2 V3 ΔΓΕ Ρ.
+

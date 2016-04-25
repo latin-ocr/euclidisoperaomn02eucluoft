@@ -1,0 +1,42 @@
+ELEMENTORUM LIBER vn. 253
+
+numerus aliquis eum metietur. hac igitur ratiocinatione
+procedente inuenietur primus aliquis numeruS, qui
+metietur.¹) nam si non inuenietur, infiniti numeri
+numerum A metientur, alter semper altero deinceps
+minores; quod in numeris fieri non potest. itaque
+inuenietur primus aliquis numerus proxime anteceden-
+tem metiens , qui etiam numerum A metiatur.
+
+Ergo quemuis numerum compositum primus aliquis
+numerus metitur3 quod erat demonstrandum.
+
+XXXII.
+
+Quiuis numerus aut primus est, aut primus nu-
+merus eum metitur.
+Sit numerus A. dico, numerum A aut primum
+esse aut primum aliquem numerum eum metiri.
+
+A iam si primus est A, factum erit, quod iussi
+sumu83 sin compositus, primus aliquis numerus
+eum metietur [prop. XXXI}
+
+Ergo quiuis numerus aut primus est, aut primus
+numerus eum metitur3 quod erat demonstrandum.
+
+XXXIII.
+
+Datis quotlibet numeris minimos eorum, qui ean·
+dem rationem habent, inuenire.
+
+Dati sint quotlibet numeri A, Β, Γ. oportet igi-
+tur minimos eorum inuenire, qui eandem rationem
+
+habeant ac A, Β, Γ.
+Α, Β, Γ enim aut inter se primi sunt aut non
+
+1) Sc. numerum praecedentem et ea de causa numerum
+A (cfr. lin. 4). et puto, haec audiri posse. etsi fieri potest,
+tit-haec uerba in P mero errore ob ὁμοιοτέλευτον exciderint.
+

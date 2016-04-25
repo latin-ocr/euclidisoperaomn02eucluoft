@@ -1,0 +1,48 @@
+ELEMENTORUM LIBER v11. 269
+
+permutatim A unitas numerum Β 613 Γ numerum A .
+aequaliter metitur [prop. XV]. ergo Γ numerum A
+metitur3 quod erat demonstrandum.
+
+XXXIX.
+
+Numerum inuenire minimum, qui datas partes ha-
+beat.
+
+A. Β Γ
+
+Sint datae partes A, Β, Γ.
+¹ oportet igitur numerum inuenire
+, Δ Η Ε , minimum, qui partes A, B, Γ
+ι--ιΖ H habeat.
+1———2 A partibus enim A, Β, Γ de-
+'—‘———⁴¹9 nominati sint numeri A, Ε, Ζ,
+613 sumatur¹)⁰numerus H, quem A, Ε, Ζ minimum me-
+‘ tiantur. H igitur partes habet a numeris A, Ε, Ζ
+denominatas [prop. XXXVII} uerum a A, Ε, Ζ (16-
+nominatae partes sunt A, B, Γ. itaque H partes A,
+Β, Γ habet. iam dico, eum etiam minimum esse.
+113111 si minue, erit numerus aliquis numero H minor,
+qui partes A, B, Γ habeat. sit Θ. quoniam Θ par-
+tes A, B, Γ habet, numerum Θ metientur numeri
+a partibus Ἀ, Β, Γ denominati [prop. XXXVIIIJ.
+uerum a partibus A, B, Γ denominati sunt numeri
+A, E, Ζ. itaque Θ numerum numeri A, E, Z metiun-
+tur. et minor est numero. Η, quod fieri non potest.
+ergo 11011 erit numerus numero H minor, qui partes
+A, B, Γ habeat3 quod erat demonstrandum.
+
+ 
+
+ 
+
+ 
+
+ 
+
+1) Itaque Euclides hic quoque prop. 36 de tribus tantum
+numeris demonstratam tacite ad quamlibet numerorum multitu-
+
+dinem transtulit, eicuti supra in prop. 33 eodem modo prop. 3
+hwite dilatauit (u. p. 255 not).
+

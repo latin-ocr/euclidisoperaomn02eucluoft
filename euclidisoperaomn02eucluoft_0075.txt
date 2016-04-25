@@ -1,0 +1,43 @@
+ELEMENTORUM LIBER V. 49
+
+aeque multiplices sunt, et H, Θ magnitudinum Γ, Δ
+aliae quaeuis aeque multiplices3 itaque A : Γ = Β : A.
+
+Ergo si quattuor magnitudines proportionales sunt,
+etiam permutando proportionales erunt3 quod erat de-
+monstrandum.
+
+XVII.
+
+Si compositae magnitudines proportionales sunt,
+etiam dirimendo proportionales erunt.
+
+Sint compositae magnitudines proportionales A Β,
+ΒΕ, ΓΔ, ΛΖ, ita ut sit AB:BE=FA:AZ. dico,
+etiam dirimendo esse ΑΕ : ΕΒ --- ΓΖ : AZ.
+
+sumantur enim magnitudinum ΑΕ, ΕΒ, ΓΖ, ΖΔ
+aeque multiplices ΗΘ, ΘΚ, ΛΜ, ΜΝ et magnitudi-
+num ΕΒ, ΖΔ aliae quaeuis aeque multiplices K Ξ, Ν Π.
+et quoniam ΗΘ magnitudinis Α Ε et ΘΚ magnitudi-
+nis ΕΒ aeque multiplex est, erit ΗΘ magnitudinis
+A E et HK magnitudinis AB aeque multiplex [prop. 1].
+uerum ΗΘ magnitudinis A E et AM magnitudinis ΓΖ
+aeque multiplex est. itaque HK magnitudinis AB et
+AM magnitudinis ΓΖ aeque multiplex est. rursus
+quoniam AM magnitudinis ΓΖ et MN magnitudinis
+ZA aeque multiplex est,-erit AM magnitudinis ΓΖ
+et AN magnitudinis ΓΔ aeque multiplex [prop. 1].
+erat autem AM magnitudinis ΓΖ et HK magnitudi-
+nis AB aeque multiplex. itaque HK magnitudinis
+AB et AN magnitudinis ΓΔ aeque multiplex est.
+
+ 
+
+ἄρα] in ras. m. 2 V. HK] K in ras. m. 2 V; AM Ρ.
+20. AB] Β in ras m. 2 V; ΓΖ P. AM] HK Ρ. ΓΖ]
+AB P. πάλιν ἐπεί - 21: τοῦ ΓΖ] mg. m. rec. B; om. p.
+21. ΖΔ] ΔΖ va. 23. AN] AH V e corr. m. 2. 24.
+τοῦ] (prius) bis p. AB] eras. p.
+Euclidon, edd. Heiberg et mange. 11. 4
+

@@ -1,0 +1,41 @@
+ELEMENTORUM LIBER VII. 229
+
+tiplicans numeros H, E effecit. erit igitur
+P1A = H: E [prop. XVII].
+
+uerum F2A=A:B. quare etiam A:B=H:E.
+rursus quoniam A >< Γ = H et Β >< Γ-- Ζ, duo nu-
+meri A, B numerum aliquem Γ multiplicansses nume-
+ros H, Z effecerunt. itaque A : Β = H: Z [prop. XVIII].
+uerum etiam A:B = H:E. quare etiam H: E=H:Z.
+H igitur ad utrumque Ε, Ζ eandem rationem habeiz.
+ergo E = Z [V‚ 9].
+
+Sit rursus E = Z. dico, esse A ε Β -- Γ t A.
+nam iisdem comparatis quoniam E = Ζ, erib
+H:E=H:Z [V‚ 7].1)
+uerum H:E=F2A [prop. XVII] et H:Z=A:B
+[prop. XVIIIJ. quare etiam A: Β -- P: A3 quod erat
+
+demonstrandum. -
+
+ 
+
+1) Cum Euclides plerasque propositiones libri V propria.
+demonstratione usus de numeris iterum demonstrauerit‚ in
+quibusdam hoc neglexit, uelut V prop. 11 in his propositio-
+nibus saepissime utitur, p. 228, 13 eiusdem libri prop. 9,
+nostro loco prop. 7, et similiter in aliis.
+
+ 
+
+e corr. m. 1 p. ἔστιν ἄρα - 18. τὸν Ζ] mg. m. 2 V. ἔστιν
+
+ἔστι φ. Ε pZ φ. 18. Ζ] Ε φ. 19. A] 111 ras..
+Post A add. ’καὶ ὥς αρα ὁ Γ πρὸς τὸν Δ, οὕτως ὁ Η
+ῗὲιὸςἿῗ.ν {L ξὲἐίξιῖἓθὶἓ &pig pzossgitilol dg 8111111118 11111ηὲ318 ἷῒὲ]
+portionalibus3 om. P m. 1 (in mg.. adscripsit m. recens) 813
+Campanus (u. p. 231 11013.;) 111 Β 111 mg. legitur a manu 1.
+
+itaque Theoni tribuenda esse uideri potest3 u. appendix.
+

@@ -1,0 +1,38 @@
+ELEMENTORUM LIBER VIII. 331
+
+sunt [prop. XX]. sint Θ, Κ latera numeri E, et A,
+M latera numeri H. itaque ex praecedenti propo-
+sitione manifestum est, numeros E, Z, H deinceps
+proportionales esse in ratione Θ : A et K: M.¹) et
+quoniam Ε, Ζ, Η minimi2) sunt eorum, qui eandem
+rationem habent ac A, Γ, A, et multitudo numerorum
+E, Z, Η aequalis est multitudini numerorum A, Γ, A,
+ex aequo erit E: Η -- Α z A [VII, 14]. sed E, H
+primi sunt, primi autem etiam minimi [VII, 21]‚
+minimi autem eos, qui eandem rationem habent,
+aequaliter metiuntur, maior maiorem et minor mino-
+rem [VII, 20]‚ h. e. praecedens praecedentem et se-
+quens sequentem. itaque E numerum A et H nume-
+rum A aequaliter metitur. iam quoties E numerum
+'A metitur, tot unitates sint in N. itaque N >< E = A
+[VII def. 15]. uerum E = Θ >< Κ. itaque
+N >< Θ >< Κ -- Α.
+
+ergo A solidus est, latera autem eius Θ, Κ, Ν. rur-
+sus quoniam E, Z, H minimi sunt eorum, qui eandem
+rationem habent ac Γ, A, B3), E numerum Fet H
+numerum B aequaliter metitur [VIL 20]. iam quoties
+
+ 
+
+1) Nam in prop. 20 demonstratum est
+A2P=P213=A2E==Z2ff
+2) Hoc solum utitur, quod numeri E, Z, H et Α, Γ, Δ
+proportionales sunt.
+3) Nam A2F=P2A=A23=E22=Z:H‚ et E,
+Z, H minimi sunt in ratione A : Γ et I': A.
+
+τόν] om. Β. 5. τόν] om. B. εἰσιν Ρ. 6. καί ἐστιν - 7: A,
+Γ, Δ] om. Theon (Bqu). 15. δή] δέ ch. 18. πεποίηκε Vq).
+20. N] in ras, V. 22. H] in ras. φ. δή] δέ Bqu.
+
